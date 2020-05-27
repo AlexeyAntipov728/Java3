@@ -7,6 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+
         //    Задание 1. Написать метод, который меняет два элемента массива местами (массив может быть любого ссылочного типа);
         Integer arr1[] = {1, 2, 3, 4, 5, 6, 7};
         String arr2[] = {"A", "B", "C"};
